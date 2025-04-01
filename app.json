@@ -3,7 +3,7 @@
     "web": [
       {
         "type": "startup",
-        "path": "/",
+        "path": "/if/flow/default-authentication-flow/",
         "initialDelay": 90,
         "attempts": 3
       }
