@@ -4,7 +4,7 @@
       {
         "type": "startup",
         "path": "/",
-        "initialDelay": 5,
+        "initialDelay": 90,
         "attempts": 3
       }
     ]
